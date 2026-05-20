@@ -3,3 +3,7 @@ file.log
 progit.epub
 progit.pdf
 DevTestOps-Version_Control_with_Git.pdf
+*.log
+*.db
+*./target
+*./bin
